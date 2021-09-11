@@ -12,9 +12,9 @@
         <item>massage</item>
         <item>bite</item>
         <item>vibrate</item>
-        <item>fuck</item>
     </string-array>
     <string-array name="parts">
+        <item>nose</item>
         <item>inner thigh</item>
         <item>below navel</item>
         <item>lips</item>
@@ -29,5 +29,9 @@
     </string-array>
     <string-array name="addedPhrases">
         <item>massage toes</item>
+        <item>fuck mouth</item>
+        <item>fuck tits</item>
+        <item>fuck month</item>
+        <item>fuck XXX</item>
     </string-array>
 </resources>
