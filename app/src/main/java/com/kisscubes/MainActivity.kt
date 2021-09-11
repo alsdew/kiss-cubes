@@ -1,5 +1,6 @@
 package com.kisscubes
 
+import android.annotation.SuppressLint
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -23,6 +24,7 @@ class MainActivity : AppCompatActivity() {
 
     fun initialize() {
         phraseField = findViewById(R.id.phraseField)
+        phraseField?.text = resources.getString(R.string.start_text)
         val actions = resources.getStringArray(R.array.actions)
         val parts = resources.getStringArray(R.array.parts)
         val added = resources.getStringArray(R.array.addedPhrases)

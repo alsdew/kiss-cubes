@@ -3,7 +3,7 @@
 .gradle
 .idea
 build
-local.properties
 captures
+local.properties
 .externalNativeBuild
 .cxx
