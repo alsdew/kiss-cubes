@@ -28,10 +28,10 @@
         <item>XXX</item>
     </string-array>
     <string-array name="addedPhrases">
-        <item>massage toes</item>
-        <item>fuck mouth</item>
-        <item>fuck tits</item>
-        <item>fuck month</item>
-        <item>fuck XXX</item>
+        <item>massage\ntoes</item>
+        <item>fuck\nmouth</item>
+        <item>fuck\ntits</item>
+        <item>fuck\nmonth</item>
+        <item>fuck\nXXX</item>
     </string-array>
 </resources>
